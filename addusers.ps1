@@ -53,7 +53,7 @@ foreach($user in $users) {
         -Description $user.Description `
         -AccountPassword (ConvertTo-SecureString -AsPlainText "Syp9393" -Force) `
         -Enabled $true `
-        -Path "OU=users,OU=site1,DC=internal,DC=marst,DC=com" `
+        -Path "OU=users,OU=Sites,DC=internal,DC=marst,DC=com" `
         -HomeDrive H: `
         -HomeDirectory "\\files\HomeFolders\$($username)"
         Add-ADGroupMember -Identity $user.Department `
