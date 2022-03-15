@@ -1,0 +1,42 @@
+Name,Login,Department,Email,Description
+Holger Svensson,hosv,Executives,holger.svensson@company.se,Head of Finance
+Marie Bergqvist,mabe,Executives,marie.bergqvist@company.se,Head of RND
+Hans Wikström,hawi,Executives,hans.wikstrom@company.se,Head of Sales
+Åke Melin,akme,Executives,ake.melin@company.se,
+Sofia Palm,sopa,Finance,sofia.palm@company.se,
+Tommy Hägglund,toha,Finance,tommy.hagglund@company.se,Department manager
+Tom Lindahl,toli,Finance,tom.lindahl@company.se,
+Joakim Karlsson,joka,IT,joakim.karlsson@company.se,Department manager
+Wilma Hultberg,wihu,IT,wilma.hultberg@company.se,Helpdesk
+Sven Knutsson,svkn,IT,sven.knutsson@company.se,Helpdesk
+Johan Nygren,jony,IT,johan.nygren@company.se,Administrator
+Lucas Hansson,luha,RND,lucas.hansson@company.se,Department manager
+Therése Boberg,thbo,RND,therese.boberg@company.se,
+Rikard Larsson,rila,RND,rikard.larsson@company.se,Department manager
+Linnea Boström,libo,RND,linnea.bostrom@company.se,
+Benjamin Pettersson,bepe,RND,benjamin.pettersson@company.se,
+Kerstin Josefsson,kejo,RND,kerstin.josefsson@company.se,Project manager
+Harriet Fält,hafa,RND,harriet.falt@company.se,
+Pierre Hedberg,pihe,RND,pierre.hedberg@company.se,
+Erik Börjesson,erbo,RND,erik.borjesson@company.se,
+Nils Aronsson,niar,RND,nils.aronsson@company.se,Project manager
+Lilian Holmlund,liho,RND,lilian.holmlund@company.se,
+Roger Johansson,rojo,RND,roger.johansson@company.se,
+Kristina Nyman,krny,RND,kristina.nyman@company.se,
+Marita Skoglund,mask,RND,marita.skoglund@company.se,
+Tim Holmström,tiho,RND,tim.holmstrom@company.se,Project manager
+Johanna Borg,jobo,RND,johanna.borg@company.se,
+Martin Wahlström,mawa,RND,martin.wahlstrom@company.se,
+Håkan Asplund,haas,RND,hakan.asplund@company.se,
+Valter Rosén,varo,RND,valter.rosen@company.se,
+Roland Forslund,rofo,RND,roland.forslund@company.se,
+Eva Löfgren,evlo,RND,eva.lofgren@company.se,Lab assistant
+Christian Eriksson,cher,Sales,christian.eriksson@company.se,
+Lina Stenberg,list,Sales,lina.stenberg@company.se,Department manager
+Lars Lindblom,lali,Sales,lars.lindblom@company.se,
+Peter Östlund,peos,Sales,peter.ostlund@company.se,
+Ulla Adolfsson,ulad,Sales,ulla.adolfsson@company.se,
+Evelina Rask,evra,Sales,evelina.rask@company.se,
+Emma Englund,emen,Sales,emma.englund@company.se,
+Carl Malm,cama,Sales,carl.malm@company.se,Department manager
+Magnus Kristiansson,makr,Sales,magnus.kristiansson@company.se,
